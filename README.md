@@ -2,4 +2,4 @@
 
 ### Kodluyoruz Bootstrap eğitim programı kapsamında medium clone çalışması yapılmıştır.
 
-Link:
+Link: https://fatihfurkankurt.github.io/medium_clone/
